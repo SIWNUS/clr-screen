@@ -1,10 +1,11 @@
-# Clear Screen
+# clr_screen
 
 A simple Python package to clear the terminal screen.
 
-## Usage
+## Installation
 
-```python
-from clear_screen import clear
+You can install the package via pip. Run the following command in your terminal:
 
-clear()
+```bash
+pip install clr-screen
+
